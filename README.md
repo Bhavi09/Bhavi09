@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Bhavi09
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Django
 - 📫 You can reach me on linkedin Bhavi Mehta
 
 <!---
